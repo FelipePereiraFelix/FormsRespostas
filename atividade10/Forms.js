@@ -1,3 +1,6 @@
-var parcela = 8.190
+var valor1 = parseInt(prompt("Digite um valor"));
 
-while()
+for(var i = 0; i < valor1; i++){
+document.write( i + "<br/>")
+}
+
