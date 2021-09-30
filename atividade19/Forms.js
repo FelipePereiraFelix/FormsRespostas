@@ -11,8 +11,8 @@ else if(a = b){
 else if(b = troca){
 
 }
-document.write("O novo valor de B é : " + troca );
-document.write("O novo valor de A é : " + b );
+document.write("O novo valor de B é : " + troca + "<br/>" );
+document.write("O novo valor de A é : " + b + "<br/>");
 
 
 
